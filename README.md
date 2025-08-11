@@ -5,6 +5,8 @@ The Find Study Spaces app can be found on my portfolio, and will hopefully be up
 
 The webscraper utilizes BeautifulSoup to organize information into JSON files. All information is taken from the UIUC course explorer (https://courses.illinois.edu/). The JSON files are then transferred to the Xcode environment and the app is written using SwiftUI. 
 
+Recording of Working App (https://drive.google.com/file/d/1yJBTFyv0WAkkDS9N9MZYwSnXuFlFfgIU/view?usp=sharing)
+
 Created by: Paige Nothelfer
 University of Illinois Urbana-Champaign, '28
 Grainger College of Engineering, Electrical Engineering (CS Minor) 
